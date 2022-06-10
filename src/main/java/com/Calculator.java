@@ -14,8 +14,8 @@ public class Calculator {
 	}
 	
 	public static void main(String args[]) {
-		System.out.println("Sum of 10 and 20 is"+add(10,20));
-		System.out.println("Subtraction of 10 and 20 is"+subtract(10,20));
-		System.out.println("Subtraction of 10 and 20 is"+multiply(10, 20));
+		System.out.println("Sum of 10 and 20 is "+add(10,20));
+		System.out.println("Subtraction of 10 and 20 is "+subtract(10,20));
+		System.out.println("Subtraction of 5 and 20 is "+multiply(5, 20));
 	}
 }
